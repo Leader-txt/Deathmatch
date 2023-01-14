@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deathmatch", "Deathmatch\Deathmatch.csproj", "{BF624042-FC45-4DED-998D-8E93A607D2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF624042-FC45-4DED-998D-8E93A607D2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF624042-FC45-4DED-998D-8E93A607D2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF624042-FC45-4DED-998D-8E93A607D2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF624042-FC45-4DED-998D-8E93A607D2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA7D026C-CB97-45CF-8F4C-0B3F05B27D4F}
+	EndGlobalSection
+EndGlobal
